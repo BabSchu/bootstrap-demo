@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Kitty",
+    "id": 1,
+    "img": "https://cdn.pixabay.com/photo/2018/01/03/19/17/cat-3059075_1280.jpg"
+  },
+  {
+    "name": "Pezi",
+    "id": 2,
+    "img": "https://cdn.pixabay.com/photo/2014/04/13/20/49/cat-323262_960_720.jpg"
+  },
+  {
+    "name": "Meizi",
+    "id": 3,
+    "img": "https://cdn.pixabay.com/photo/2017/11/09/21/41/cat-2934720_960_720.jpg"
+  },
+  {
+    "name": "Pupsi",
+    "id": 4,
+    "img": "https://cdn.pixabay.com/photo/2014/05/07/06/44/animal-339400_960_720.jpg"
+  },
+  {
+    "name": "Kurt",
+    "id": 5,
+    "img": "https://cdn.pixabay.com/photo/2015/02/25/17/56/cat-649164_960_720.jpg"
+  },
+  {
+    "name": "Blacky",
+    "id": 6,
+    "img": "https://cdn.pixabay.com/photo/2015/05/22/05/52/cat-778315_960_720.jpg"
+  },
+  {
+    "name": "Schnurli",
+    "id": 7,
+    "img": "https://cdn.pixabay.com/photo/2018/03/26/20/49/tiger-3264048_960_720.jpg"
+  }
+]
